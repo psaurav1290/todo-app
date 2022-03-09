@@ -8,7 +8,7 @@ This is my first react native follow-along project, a basic Todo List app.
  5. Connect your device and enable USB debugging.
  6. Run- `expo start` 
  7. Press `a` for Android and `i` for IOS.
- 8. For more options follow the console menu or open `http://localhost:19002/` on your browser to access Expo Developer Tools.
+ 8. For more options follow the console menu or open [http://localhost:19002/](http://localhost:19002/) on your browser to access Expo Developer Tools.
 
 ## Learning Outcomes
 1. **Figma-**
